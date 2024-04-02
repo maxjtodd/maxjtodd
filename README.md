@@ -1,4 +1,4 @@
-Hello! My name is Max Todd, I'm an aspiring software developer attending New Mexico State University.
+Hello! My name is Max Todd, I'm an aspiring software developer / machine learning engineer attending New Mexico State University.
 
 
 <!---
